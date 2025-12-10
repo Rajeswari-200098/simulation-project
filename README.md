@@ -7,3 +7,14 @@ This project simulates Stack and Queue operations using Linked List.
 - Queue: Enqueue, Dequeue, Front, Display
 
 ## Run Program
+**python main.py
+
+
+## Folder Structure
+
+
+SRC/
+node.py
+stack.py
+queue.py
+main.py**
